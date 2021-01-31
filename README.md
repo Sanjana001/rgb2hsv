@@ -1,3 +1,2 @@
-# RGB Table
-
-where anyone can find color code by typing the values of red, green and blue color
+# RGB
+where anyone can find color code and rgb values for that.
