@@ -1,2 +1,2 @@
 # rgb2hsv
-A platform to convert rgb color codes into hsv codes and vice-versa. 
+Updated version of project in main branch.
