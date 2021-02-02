@@ -1,2 +1,2 @@
 # rgb2hsv
-Updated version of project in "main" branch.
+To convert rgb color codes into hsv codes and vice-versa
