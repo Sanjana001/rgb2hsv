@@ -25,21 +25,6 @@
         android:textColor="#000"
         android:textStyle="bold" />
 
-
-    <!--TextView
-        android:id="@+id/color"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp"
-        android:layout_marginEnd="670dp"
-        android:text="Hello"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#000"
-        android:textStyle="bold" /-->
-
     <TextView
         android:id="@+id/content"
         android:layout_width="wrap_content"
@@ -55,18 +40,5 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="#FF0032"
         android:textStyle="italic" />
-
-    <!--TextView
-        android:id="@+id/content"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/color"
-        android:layout_alignEnd="@+id/color"
-        android:layout_toEndOf="@+id/view1"
-        android:text="Hello"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        android:textColor="#FF0032"
-        android:textStyle="italic" /-->
 
 </RelativeLayout>
